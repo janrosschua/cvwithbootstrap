@@ -1,0 +1,38 @@
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.gradient-background{
+   
+    background-image: linear-gradient( 90.2deg,  rgba(75,68,229,1) 2%, rgba(97,212,202,1) 98.3% );
+      
+}
+.gradient-background1{
+    background-image: linear-gradient( 90.2deg,  rgba(75,68,229,1) 2%, rgba(97,212,202,1) 98.3% );
+}
+
+.Centered{
+    background-image: linear-gradient( 90.2deg,  rgba(75,68,229,1) 2%, rgba(97,212,202,1) 98.3% );
+}
+
+
+.portfolio-hero{
+    background-image: linear-gradient( 90.2deg,  rgba(75,68,229,1) 2%, rgba(97,212,202,1) 98.3% );
+    color: black;
+}
+
+.text-body-secondary{
+    color: red;
+}
+.lead {
+    color: white;
+}
+
+.about{
+    color: white;
+}
+
+
